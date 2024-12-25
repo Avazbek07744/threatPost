@@ -1,0 +1,15 @@
+.swiper {
+    width: 854px;
+    margin-bottom: 8px;
+}
+
+.swiper-slide {
+    font-size: 18px;
+    background: #fff;
+}
+
+#but:hover{
+    span{
+        color: #E2211C;
+    }
+}
